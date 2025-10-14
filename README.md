@@ -1,4 +1,4 @@
-### Hello! 👋 I'm Lily Trautman, welcome to my profile!
+### Hello! 👋 I'm Lily Trautman, Welcome to my Profile!
 
 I am Lily Trautman, a Computer Scientist based in Denver, Colorado. I have worked as a Tennis Instructor, CPA Intern, and Business Analyst Intern. I recently stepped into a new role as the Student Success Manager for the Ritchie School of Engineering and Computer Science. I am a highly motivated individual who loves learning new technologies and solving problems. I focus on automating business processes, student advising, and analyzing data using Tableau to help organizations make better decisions.
 I have experience with:
