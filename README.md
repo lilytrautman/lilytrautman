@@ -1,4 +1,24 @@
-## Hi there 👋
+### Hello! 👋 I'm Lily Trautman, welcome to my profile!
+
+I am Lily Trautman, a Computer Scientist based in Denver, Colorado. I have worked as a Tennis Instructor, CPA Intern, and Business Analyst Intern. I recently stepped into a new role as the Student Success Manager for the Ritchie School of Engineering and Computer Science. I am a highly motivated individual who loves learning new technologies and solving problems. I focus on automating business processes, student advising, and analyzing data using Tableau to help organizations make better decisions.
+I have experience with:
+
+Data Cleaning  
+Data Visualization  
+C  
+C++  
+Java / JavaScript  
+Python  
+R  
+Rust  
+SQL  
+
+I love all the stereotypical Colorado activities: skiing, rock climbing, and running! As a Colorado native, I earned my degree from the University of Denver. While completing my undergraduate studies, I served as President of the Computer Science Club (DUCS). During my time with DUCS, I developed a strong passion for both professional development and data science. As a result, I transitioned into data science, beginning with a Business Analyst internship that allowed me to immerse myself in coding and big data. This experience confirmed my passion for using data to solve real problems and help others, motivating me to pursue a Master’s in Data Science beginning in Fall 2026.
+
+I am an avid traveler—most recently, I studied abroad in Hong Kong, and I’ll be heading to Europe this December! When I’m not working on projects or studying, you can find me playing the guitar 🎸, drawing ✍️, reading 📖, or exercising 🧗‍♂️. I truly believe it is a privilege to choose your challenges, and every day is a new opportunity to learn and grow!
+
+⚡ Fun fact: I am left handed!
+
 
 <!--
 **lilytrautman/lilytrautman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
