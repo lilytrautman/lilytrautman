@@ -1,6 +1,6 @@
 ### Hello! 👋 Welcome to my Profile!
 
-I am Lily Trautman, a Computer Scientist based in Denver, Colorado. I am a highly motivated individual who loves learning new technologies and solving problems. I focus on automating business processes, student advising, and analyzing data using several platforms to help organizations make better decisions.
+I am Lily Trautman, a Computer Scientist based in Denver, Colorado. I am a highly motivated individual who loves learning new technologies and solving problems. I focus on embedded systems, automating business processes, and analyzing data using several platforms to help organizations make better decisions.
 I have experience with:
 
 Data Cleaning  
