@@ -17,7 +17,7 @@ I love all the stereotypical Colorado activities: skiing and running! As a Color
 
 When I’m not working on projects or studying, you can find me playing the guitar 🎸, drawing ✍️, reading 📖, or exercising. I truly believe it is a privilege to choose your challenges, and every day is a new opportunity to learn and grow!
 
-⚡ Fun fact: I am left handed!
+⚡ Fun fact: I am currently training for my first marathon! Cape Cod 2026!
 
 
 <!--
